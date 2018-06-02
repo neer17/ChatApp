@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1042425247152",
+    "firebase_url": "https://neerajschat.firebaseio.com",
+    "project_id": "neerajschat",
+    "storage_bucket": "neerajschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042425247152:android:7cc3798d48f67b65",
+        "android_client_info": {
+          "package_name": "com.example.neerajsewani.neerajschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042425247152-16alch5o3529vsn1om5cg4afdm8f3dij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neerajsewani.neerajschat",
+            "certificate_hash": "26d1273a2dfe7eeb9f0ac5063fcaf0da5284def4"
+          }
+        },
+        {
+          "client_id": "1042425247152-6hnn99qn9qafv7q77k138k44bjfb2gms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3IK5XuCY52RJjGfGXBfyXiD_wMIFuYNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042425247152-6hnn99qn9qafv7q77k138k44bjfb2gms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
